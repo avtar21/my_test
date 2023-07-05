@@ -3,3 +3,6 @@ def hello():
 
 def second():
 	print("hello second function")
+
+def third():
+	print("new function added")
