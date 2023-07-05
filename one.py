@@ -6,3 +6,6 @@ def second():
 
 def third():
 	print("new function added")
+
+def fifth():
+	print("this is fifth function")
